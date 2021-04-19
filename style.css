@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#myCanvas{
+    background: rgb(241, 245, 243);
+    display: block; 
+    margin: 0 auto;
+    
+}
